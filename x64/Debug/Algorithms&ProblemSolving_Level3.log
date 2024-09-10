@@ -1,0 +1,11 @@
+﻿  main.cpp
+D:\A new beginning 💪\Level 3\Algorithms&ProblemSolving_Level3\Algorithms&ProblemSolving_Level3\Header.h(439,20): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+D:\A new beginning 💪\Level 3\Algorithms&ProblemSolving_Level3\Algorithms&ProblemSolving_Level3\Header.h(512,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\A new beginning 💪\Level 3\Algorithms&ProblemSolving_Level3\Algorithms&ProblemSolving_Level3\Header.h(527,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\A new beginning 💪\Level 3\Algorithms&ProblemSolving_Level3\Algorithms&ProblemSolving_Level3\Header.h(551,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\A new beginning 💪\Level 3\Algorithms&ProblemSolving_Level3\Algorithms&ProblemSolving_Level3\Header.h(573,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+D:\A new beginning 💪\Level 3\Algorithms&ProblemSolving_Level3\Algorithms&ProblemSolving_Level3\Header.h(615,13): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+D:\A new beginning 💪\Level 3\Algorithms&ProblemSolving_Level3\Algorithms&ProblemSolving_Level3\Header.h(619,17): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\A new beginning 💪\Level 3\Algorithms&ProblemSolving_Level3\Algorithms&ProblemSolving_Level3\Header.h(877): warning C4715: 'MyLib::DeleteClientByAccountNumber': not all control paths return a value
+D:\A new beginning 💪\Level 3\Algorithms&ProblemSolving_Level3\Algorithms&ProblemSolving_Level3\Header.h(922): warning C4715: 'MyLib::UpdateClientDataByAccountNumber': not all control paths return a value
+  Algorithms&ProblemSolving_Level3.vcxproj -> D:\A new beginning 💪\Level 3\Algorithms&ProblemSolving_Level3\x64\Debug\Algorithms&ProblemSolving_Level3.exe
